@@ -1,0 +1,11 @@
+{
+	"name": "how-to-use-ajax-promise-es8",
+	"version": "1.0.0",
+	"description": "How to use my ajax async EcmaScript8",
+	"main": "app.js",
+	"author": "HállanCosta",
+	"license": "MIT",
+	"dependencies": {
+		"ajax-promise-es8": "^1.0.0"
+	}
+}
